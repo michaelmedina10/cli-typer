@@ -1,0 +1,11 @@
+# database
+pymysql==1.1.1
+
+# cli
+typer==0.15.1
+rich==13.9.4
+pyreadline3==3.5.4
+
+# commons
+pandas==2.2.3
+requests==2.32.3

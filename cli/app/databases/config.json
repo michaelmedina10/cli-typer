@@ -1,0 +1,18 @@
+[
+    {
+        "name": "apelido1",
+        "host":"host1",
+        "port": 3306,
+        "user": "",
+        "pmysql": "",
+        "database": ""
+    },
+    {
+        "name": "apelido2",
+        "host":"host1",
+        "port": 3306,
+        "user": "",
+        "pmysql": "",
+        "database": ""
+    }
+]
